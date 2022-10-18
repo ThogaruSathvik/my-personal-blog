@@ -1,1 +1,1 @@
-Sitemap: https://github.com/ThogaruSathvik/my-personal-blog/sitemap.xml
+Sitemap: https://ThogaruSathvik.github.io/my-personal-blog/sitemap.xml

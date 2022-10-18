@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/ThogaruSathvik/my-personal-blog/about.html</loc>
-    <lastmod>2022-10-18T21:05:34.327Z</lastmod>
+    <loc>https://ThogaruSathvik.github.io/my-personal-blog/about/AboutTemplate.html</loc>
+    <lastmod>2022-10-18T21:21:53.348Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/ThogaruSathvik/my-personal-blog/index.html</loc>
-    <lastmod>2022-10-18T21:05:38.230Z</lastmod>
+    <loc>https://ThogaruSathvik.github.io/my-personal-blog/about.html</loc>
+    <lastmod>2022-10-18T21:21:55.580Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/ThogaruSathvik/my-personal-blog/posts/PostTemplate.html</loc>
-    <lastmod>2022-10-18T21:05:49.152Z</lastmod>
+    <loc>https://ThogaruSathvik.github.io/my-personal-blog/index.html</loc>
+    <lastmod>2022-10-18T21:21:57.659Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/ThogaruSathvik/my-personal-blog/templates/AboutTemplate.html</loc>
-    <lastmod>2022-10-18T21:05:53.215Z</lastmod>
+    <loc>https://ThogaruSathvik.github.io/my-personal-blog/posts/PostTemplate.html</loc>
+    <lastmod>2022-10-18T21:22:03.340Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/ThogaruSathvik/my-personal-blog/templates/PostTemplate.html</loc>
-    <lastmod>2022-10-18T21:06:03.269Z</lastmod>
+    <loc>https://ThogaruSathvik.github.io/my-personal-blog/templates/AboutTemplate.html</loc>
+    <lastmod>2022-10-18T21:22:07.435Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ThogaruSathvik.github.io/my-personal-blog/templates/PostTemplate.html</loc>
+    <lastmod>2022-10-18T21:22:19.967Z</lastmod>
   </url>
 </urlset>

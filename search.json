@@ -1,15 +1,64 @@
 [
   {
+    "objectID": "about/AboutTemplate.html",
+    "href": "about/AboutTemplate.html",
+    "title": "Sathvik Thogaru",
+    "section": "",
+    "text": "##Instructions"
+  },
+  {
+    "objectID": "about/AboutTemplate.html#educationwork-background",
+    "href": "about/AboutTemplate.html#educationwork-background",
+    "title": "Sathvik Thogaru",
+    "section": "Education/Work Background",
+    "text": "Education/Work Background"
+  },
+  {
+    "objectID": "about/AboutTemplate.html#r-experience",
+    "href": "about/AboutTemplate.html#r-experience",
+    "title": "Sathvik Thogaru",
+    "section": "R experience",
+    "text": "R experience"
+  },
+  {
+    "objectID": "about/AboutTemplate.html#research-interests",
+    "href": "about/AboutTemplate.html#research-interests",
+    "title": "Sathvik Thogaru",
+    "section": "Research interests",
+    "text": "Research interests"
+  },
+  {
+    "objectID": "about/AboutTemplate.html#hometown",
+    "href": "about/AboutTemplate.html#hometown",
+    "title": "Sathvik Thogaru",
+    "section": "Hometown",
+    "text": "Hometown"
+  },
+  {
+    "objectID": "about/AboutTemplate.html#hobbies",
+    "href": "about/AboutTemplate.html#hobbies",
+    "title": "Sathvik Thogaru",
+    "section": "Hobbies",
+    "text": "Hobbies"
+  },
+  {
+    "objectID": "about/AboutTemplate.html#fun-fact",
+    "href": "about/AboutTemplate.html#fun-fact",
+    "title": "Sathvik Thogaru",
+    "section": "Fun fact",
+    "text": "Fun fact"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Contributors",
+    "title": "About me",
     "section": "",
-    "text": "No matching items"
+    "text": "Sathvik Thogaru\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "DACSS 601 August 2022",
+    "title": "Sathvik Thogaru",
     "section": "",
     "text": "First Blog Post\n\n\n\n\n\n\n\nhw1\n\n\nchallenge1\n\n\nmy name\n\n\ndataset\n\n\nggplot2\n\n\n\n\n\n\n\n\n\n\n\nAug 2, 2022\n\n\nSathvik Thogariu\n\n\n\n\n\n\nNo matching items"
   },
